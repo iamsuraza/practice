@@ -3,6 +3,7 @@ def  addition(*values):
     for v in values:
         sum += v
     return sum
+print("Thank You")
 
 def  multiply(*values):
     product = 1
