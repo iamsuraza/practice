@@ -3,3 +3,9 @@ def  addition(*values):
     for v in values:
         sum += v
     return sum
+
+def  multiply(*values):
+    product = 1
+    for v in values:
+        product *= v
+    return product
