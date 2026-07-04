@@ -4,6 +4,8 @@ def  addition(*values):
         sum += v
     return sum
 print("Thank You")
+print("Thank You")
+print("Thank You")
 
 def  multiply(*values):
     product = 1
