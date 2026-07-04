@@ -9,3 +9,5 @@ def  multiply(*values):
     for v in values:
         product *= v
     return product
+
+print("Completed")
